@@ -23,4 +23,4 @@ Peter Thiel, the founder of PayPal, raised 2M in funding,
 bringing forth Silicon Valley merchants like Sequoia Capital, SV Angel, Andreessen Horowitz, Michael Moritz and business magnate Elon Musk.
 Amassing a total of $122B and an extra $600M of new equity through the contributions of Allianz, AXA and Ireland’s National Treasury Management Agency.
 
-##Business Activities
+## Business Activities
