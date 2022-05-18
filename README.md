@@ -17,7 +17,7 @@ Stripe, as previously mentioned, functions as a multi functional payment service
 
 According to Stripe Software Engineer, Matt Basta, the technology used is 'a multiple language coded system, with JavaScript and Ruby most commonly used'. The incorporation of code and continuous integration systems aid in creating a user-friendly platform and faster processing speeds. An API System is assimilated to help easily transfer data from the provider, the processes are then organised into the Stripe command-line interface (CLI), for customers to interact with Stripe through the Terminal or other command line interface systems. However, Stripe offers 'no-code' options like Payment Links and Invoicing as well. 
 
-Patrick, explains on [Quora]([url](https://www.quora.com/Why-did-Stripe-choose-to-use-Ruby-for-its-backend-language ))
+Patrick, explains on [Quora](https://www.quora.com/Why-did-Stripe-choose-to-use-Ruby-for-its-backend-language), 
 
 
 ## Landscape
